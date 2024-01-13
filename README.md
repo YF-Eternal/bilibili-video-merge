@@ -9,8 +9,8 @@ I just casually wrote a little gadget in **Python** to help.
 
 ## Start
 ### 1. Install
-* 运行需要 **[Python3.9](https://python.org/downloads/)** 或更高版本 。
-* 安装 **[FFmpeg](https://ffmpeg.org/download.html#get-packages)**。
+* Requires version **[Python3.9](https://python.org/downloads/)** or higher to run.
+* Install **[FFmpeg](https://ffmpeg.org/download.html#get-packages)** and configure environment variables。
 * Unzip"**bilibili-video-merge.zip**"
 
 ### 2. Finish
