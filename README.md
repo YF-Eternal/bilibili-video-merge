@@ -1,4 +1,4 @@
-# bilibili video merging software
+![image](https://github.com/YF-Eternal/bilibili-video-merge/assets/97782472/001b64e3-fc41-47bd-b660-ab08b2127efb)# bilibili video merging software
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
 ### [English] | [中文](README-CN.md)
@@ -6,7 +6,7 @@
 🌍 **Windows** Can run on Windows7/10/11 operating system.
 
 ## BiliBili always downloads two files (audio and video) and merging them every time is troublesome.
-![image](https://github.com/YF-Eternal/bilibili-video-merge/assets/97782472/ae8f89d7-86ea-490d-b8ab-c44f30d289c6)  
+![image](https://github.com/YF-Eternal/bilibili-video-merge/assets/97782472/703c7800-3c77-49d6-9696-3e3b06ae266d)
 I just casually wrote a little gadget in **Python** to help.
 
 ## Start
