@@ -12,7 +12,7 @@
 ## 开始
 ### 1. 安装
 * 运行需要 **[Python3.9](https://python.org/downloads/)** 或更高版本 。
-* 安装 **[FFmpeg](https://ffmpeg.org/download.html#get-packages)**。
+* 安装 **[FFmpeg](https://ffmpeg.org/download.html#get-packages)**并配置环境变量。
 
 ### 2. 完成
 #### 用下载器把两个文件下载下来后分别是M4A/M4S和MP4。
