@@ -1,4 +1,4 @@
-# bilibili视频合并软件
+# bilibili video merging software
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
 ### English | [中文](README-CN.md)
