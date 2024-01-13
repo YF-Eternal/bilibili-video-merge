@@ -1,4 +1,4 @@
-# bilibili视频合并软件
+# BiliBili视频合并软件
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
 ### [English](README.md)  | 中文
