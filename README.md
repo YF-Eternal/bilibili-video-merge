@@ -1,7 +1,7 @@
 # bilibili视频合并软件
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
-### [English] | [中文](README-CN.md)
+### English | [中文](README-CN.md)
 
 🌍 Can run on Windows7/10/11 operating system.
 
