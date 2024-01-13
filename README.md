@@ -1,5 +1,3 @@
-![image](https://github.com/YF-Eternal/bilibili-video-merge/assets/97782472/001b64e3-fc41-47bd-b660-ab08b2127efb)# bilibili video merging software
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
 ### [English] | [中文](README-CN.md)
 
