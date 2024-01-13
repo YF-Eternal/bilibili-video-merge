@@ -6,7 +6,7 @@
 🌍 Can run on Windows7/10/11 operating system.
 
 ## BiliBili always downloads two files (audio and video) and merging them every time is troublesome.
-![image](https://github.com/YF-Eternal/bilibili-video-merge/assets/97782472/703c7800-3c77-49d6-9696-3e3b06ae266d)
+![image](https://github.com/YF-Eternal/bilibili-video-merge/assets/97782472/703c7800-3c77-49d6-9696-3e3b06ae266d)  
 I just casually wrote a little gadget in **Python** to help.
 
 ## Start
