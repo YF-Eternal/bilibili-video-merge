@@ -3,7 +3,7 @@
 
 ### [English](README.md)  | 中文
 
-🌍 **Windows** 可在 Windows7/10/11 操作系统中运行。
+🌍 可在 Windows7/10/11 操作系统中运行。
 
 ## BiliBili下载总是两个文件，每次合并很麻烦。
 ![image](https://github.com/YF-Eternal/bilibili-video-merge/assets/97782472/ae8f89d7-86ea-490d-b8ab-c44f30d289c6)  
